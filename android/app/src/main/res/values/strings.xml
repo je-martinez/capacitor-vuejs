@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-vuejs</string>
+    <string name="title_activity_main">capacitor-vuejs</string>
+    <string name="package_name">com.capacitor_vuejs_app.example</string>
+    <string name="custom_url_scheme">com.capacitor_vuejs_app.example</string>
+</resources>
